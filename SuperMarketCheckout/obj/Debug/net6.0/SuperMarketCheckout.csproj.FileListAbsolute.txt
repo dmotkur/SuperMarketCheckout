@@ -1,0 +1,14 @@
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\obj\Debug\net6.0\SuperMarketCheckout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\obj\Debug\net6.0\SuperMarketCheckout.AssemblyInfoInputs.cache
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\obj\Debug\net6.0\SuperMarketCheckout.AssemblyInfo.cs
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\obj\Debug\net6.0\SuperMarketCheckout.csproj.CoreCompileInputs.cache
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\bin\Debug\net6.0\SuperMarketCheckout.exe
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\bin\Debug\net6.0\SuperMarketCheckout.deps.json
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\bin\Debug\net6.0\SuperMarketCheckout.runtimeconfig.json
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\bin\Debug\net6.0\SuperMarketCheckout.dll
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\bin\Debug\net6.0\SuperMarketCheckout.pdb
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\obj\Debug\net6.0\SuperMarketCheckout.dll
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\obj\Debug\net6.0\refint\SuperMarketCheckout.dll
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\obj\Debug\net6.0\SuperMarketCheckout.pdb
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\obj\Debug\net6.0\SuperMarketCheckout.genruntimeconfig.cache
+C:\Users\Deepthi\source\repos\SuperMarketCheckout\SuperMarketCheckout\obj\Debug\net6.0\ref\SuperMarketCheckout.dll
